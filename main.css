@@ -1,21 +1,5 @@
-/*.centered {
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-
-body {
-    background-image:    url(no.png);
-    background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
-}*/
 html { 
-    background: url(yes.jpeg) no-repeat center center fixed; 
-    /* background-color: rgb(0, 204, 255); */
-    /* -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; */
+    /* use 'no_enrico.jpeg' for no and 'yes.jpeg' for yes */
+    background: url(no_enrico.jpeg) no-repeat center center fixed; 
     background-size: contain;
   }
